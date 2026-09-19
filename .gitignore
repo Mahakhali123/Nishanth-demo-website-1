@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Local font files (optional — add to git if you want self-hosted fonts)
+# inter.woff2
+# instrument-serif-italic.woff2
+
+# Vercel
+.vercel
